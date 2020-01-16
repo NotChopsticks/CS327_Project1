@@ -4,8 +4,8 @@ Getting the Repository:
 1. Download Git Bash
 2. In git bash, navigate to where you want to store the repository: cd <file path>
 3. Copy the url from the repository when you click on clone
-4. In Bash: git pull <url>
-5. In Bash: cd <repository name>
+4. In Bash: git pull < url >
+5. In Bash: cd < name of the repository >
 5. Open the folder in your IDE
 
 Pushing changes to Repository:
