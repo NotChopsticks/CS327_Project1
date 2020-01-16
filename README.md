@@ -4,6 +4,7 @@ Getting the Repository:
 1. Download Git Bash
 2. In git bash, navigate to where you want to store the repository: cd <file path>
 3. Copy the url from the repository when you click on clone
+  
   In the following steps, the <>'s are not included in actual input
 4. In Bash: git pull < url >
 5. In Bash: cd < name of the repository >
